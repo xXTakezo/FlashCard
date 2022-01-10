@@ -1,5 +1,5 @@
 # FlashCard
-The ultimate FlashCard Program. You can import FlashCards, practice on them and gain some insights about the cards where you struggle the most. Of yourse, you can create and remove flashcards anytime and even export them. How cool is that?
+A simple FlashCard program. You can import FlashCards, practice on them and gain some insights about the cards where you struggle the most. Of yourse, you can create and remove flashcards anytime and even export them. How cool is that?
 Main functionalities:
 
 IMPORT existing flashcards with .txt or .json files
